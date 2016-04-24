@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="css/master.css" media="screen" title="no title" charset="utf-8">
+      <link rel="stylesheet" href="css/animate.css" media="screen" title="no title" charset="utf-8">
+    <meta charset="utf-8">
+    <title>Home</title>
+  </head>
+  <body>
+<div class="logo">
+    <img class="animated rubberBand" src="imgs/logo.png"/ width="80px" height="80px">
+   </div>
+<div class="nav">
+      <ul>
+        <li><a href="#">Home</a></li>
+          <li><a href="#">News</a></li>
+            <li><a href="#">About</a></li>
+      </ul>
+</div>
+<div class="in">
+  <div class="f1">
+    <center>
+    <h1 class=" animated rubberBand">Coming Soon!</h1>
+    <img src="https://images.unsplash.com/photo-1454165205744-3b78555e5572?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=ca8c08d17555247f7580691500bb5351"width="1366px"height="460px"/>
+  </center>
+
+  </div>
+</div>
+
+</body>
+</html>
